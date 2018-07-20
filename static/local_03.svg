@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="30px" viewBox="0 0 22 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>local_03</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="local_03">
+            <g id="Group-4">
+                <ellipse id="Oval" fill="#000000" opacity="0.12" cx="11" cy="28" rx="5" ry="2"></ellipse>
+                <path d="M11,28.4964528 C11.5003532,28.4964528 22,17.0751322 22,11 C22,4.92486775 17.0751322,0 11,0 C4.92486775,0 0,4.92486775 0,11 C0,17.0751322 10.4996468,28.4964528 11,28.4964528 Z" id="Oval-7" fill="#1CBCB4"></path>
+                <text id="3" font-family="PingFangTC-Medium, PingFang TC" font-size="13" font-weight="400" fill="#FFFFFF">
+                    <tspan x="7" y="16">3</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
