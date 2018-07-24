@@ -1,0 +1,407 @@
+{
+    "COVERAGE_RADIUSENUM": [
+        {
+            "id": 6,
+            "remark": "",
+            "code": "0.1",
+            "codeText": "100m",
+            "type": "COVERAGE_RADIUSENUM",
+            "sortNo": 1,
+            "editable": 0
+        },
+        {
+            "id": 7,
+            "remark": "",
+            "code": "0.5",
+            "codeText": "500m",
+            "type": "COVERAGE_RADIUSENUM",
+            "sortNo": 2,
+            "editable": 0
+        },
+        {
+            "id": 8,
+            "remark": "",
+            "code": "1",
+            "codeText": "1km",
+            "type": "COVERAGE_RADIUSENUM",
+            "sortNo": 3,
+            "editable": 0
+        },
+        {
+            "id": 9,
+            "remark": "",
+            "code": "2",
+            "codeText": "2km",
+            "type": "COVERAGE_RADIUSENUM",
+            "sortNo": 4,
+            "editable": 0
+        },
+        {
+            "id": 10,
+            "remark": "",
+            "code": "3",
+            "codeText": "3km",
+            "type": "COVERAGE_RADIUSENUM",
+            "sortNo": 5,
+            "editable": 0
+        }
+    ],
+    "DEPOT_QUALITY": [
+        {
+            "id": 33,
+            "remark": "",
+            "code": "all_quality",
+            "codeText": "全部",
+            "type": "DEPOT_QUALITY",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 28,
+            "remark": "",
+            "code": "depot_good",
+            "codeText": "质量好",
+            "type": "DEPOT_QUALITY",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 29,
+            "remark": "",
+            "code": "depot_moderation",
+            "codeText": "质量适中",
+            "type": "DEPOT_QUALITY",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 30,
+            "remark": "",
+            "code": "depot_bad",
+            "codeText": "质量差",
+            "type": "DEPOT_QUALITY",
+            "sortNo": 4,
+            "editable": 1
+        }
+    ],
+    "DEPOT_TYPE": [
+        {
+            "id": 32,
+            "remark": "",
+            "code": "all_type",
+            "codeText": "全部",
+            "type": "DEPOT_TYPE",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 23,
+            "remark": "",
+            "code": "mall_hotel",
+            "codeText": "商场&酒店",
+            "type": "DEPOT_TYPE",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 24,
+            "remark": "",
+            "code": "apartment_office_building",
+            "codeText": "公寓&写字楼",
+            "type": "DEPOT_TYPE",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 25,
+            "remark": "",
+            "code": "single_parking_lot",
+            "codeText": "露天单一停车场",
+            "type": "DEPOT_TYPE",
+            "sortNo": 4,
+            "editable": 1
+        },
+        {
+            "id": 26,
+            "remark": "",
+            "code": "government_proprietors_clients",
+            "codeText": "政府&大业主&零散客户",
+            "type": "DEPOT_TYPE",
+            "sortNo": 5,
+            "editable": 1
+        },
+        {
+            "id": 27,
+            "remark": "",
+            "code": "wait_built",
+            "codeText": "待建",
+            "type": "DEPOT_TYPE",
+            "sortNo": 6,
+            "editable": 1
+        }
+    ],
+    "HOUSE_LEVEL": [
+        {
+            "id": 19,
+            "remark": "",
+            "code": "house_level_all",
+            "codeText": "全部租房档次",
+            "type": "HOUSE_LEVEL",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 20,
+            "remark": "",
+            "code": "house_level_low",
+            "codeText": "低档",
+            "type": "HOUSE_LEVEL",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 21,
+            "remark": "",
+            "code": "house_level_mid",
+            "codeText": "中档",
+            "type": "HOUSE_LEVEL",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 22,
+            "remark": "",
+            "code": "house_level_high",
+            "codeText": "高档",
+            "type": "HOUSE_LEVEL",
+            "sortNo": 4,
+            "editable": 1
+        }
+    ],
+    "HOUSE_RENT_TYPE_ENUM": [
+        {
+            "id": 11,
+            "remark": "",
+            "code": "6",
+            "codeText": "隔间",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 1,
+            "editable": 0
+        },
+        {
+            "id": 12,
+            "remark": "",
+            "code": "1",
+            "codeText": "一室",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 2,
+            "editable": 0
+        },
+        {
+            "id": 13,
+            "remark": "",
+            "code": "2",
+            "codeText": "二室",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 3,
+            "editable": 0
+        },
+        {
+            "id": 14,
+            "remark": "",
+            "code": "3",
+            "codeText": "三室",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 4,
+            "editable": 0
+        },
+        {
+            "id": 15,
+            "remark": "",
+            "code": "4",
+            "codeText": "四室",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 5,
+            "editable": 0
+        },
+        {
+            "id": 16,
+            "remark": "",
+            "code": "5",
+            "codeText": "其他",
+            "type": "HOUSE_RENT_TYPE_ENUM",
+            "sortNo": 6,
+            "editable": 0
+        }
+    ],
+    "LOCATION_TYPE": [
+        {
+            "id": 1,
+            "remark": "",
+            "code": "trading_area",
+            "codeText": "商圈",
+            "type": "LOCATION_TYPE",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 2,
+            "remark": "",
+            "code": "traffic_hub",
+            "codeText": "交通枢纽",
+            "type": "LOCATION_TYPE",
+            "sortNo": 2,
+            "editable": 1
+        }
+    ],
+    "MAP_TYPE": [
+        {
+            "id": 3,
+            "remark": "",
+            "code": "enterprise",
+            "codeText": "企业地图",
+            "type": "MAP_TYPE",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 4,
+            "remark": "",
+            "code": "hotel",
+            "codeText": "酒店地图",
+            "type": "MAP_TYPE",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 5,
+            "remark": "",
+            "code": "dwelling",
+            "codeText": "住宅地图",
+            "type": "MAP_TYPE",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 17,
+            "remark": "",
+            "code": "house_rent",
+            "codeText": "租金地图",
+            "type": "MAP_TYPE",
+            "sortNo": 4,
+            "editable": 1
+        },
+        {
+            "id": 18,
+            "remark": "",
+            "code": "apartment",
+            "codeText": "公寓地图",
+            "type": "MAP_TYPE",
+            "sortNo": 5,
+            "editable": 1
+        }
+    ],
+    "APARTMENT_OPERATION_SUBJECT": [
+        {
+            "id": 34,
+            "remark": "",
+            "code": "vanke_self-support",
+            "codeText": "万科自营",
+            "type": "APARTMENT_OPERATION_SUBJECT",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 35,
+            "remark": "",
+            "code": "operation_state_owned",
+            "codeText": "国企运营",
+            "type": "APARTMENT_OPERATION_SUBJECT",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 36,
+            "remark": "",
+            "code": "private_state_owned",
+            "codeText": "私企运营",
+            "type": "APARTMENT_OPERATION_SUBJECT",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 37,
+            "remark": "",
+            "code": "privately_operated",
+            "codeText": "民营",
+            "type": "APARTMENT_OPERATION_SUBJECT",
+            "sortNo": 4,
+            "editable": 1
+        }
+    ],
+    "SUBSCRIBER_LINE": [
+        {
+            "id": 1,
+            "remark": "",
+            "code": "business",
+            "codeText": "商业",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 1,
+            "editable": 1
+        },
+        {
+            "id": 2,
+            "remark": "",
+            "code": "industry_deal ",
+            "codeText": "产办",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 2,
+            "editable": 1
+        },
+        {
+            "id": 3,
+            "remark": "",
+            "code": "rental_apartment",
+            "codeText": "出租公寓",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 3,
+            "editable": 1
+        },
+        {
+            "id": 4,
+            "remark": "",
+            "code": "parking_lot",
+            "codeText": "停车场",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 4,
+            "editable": 1
+        },
+        {
+            "id": 5,
+            "remark": "",
+            "code": "education",
+            "codeText": "教育",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 5,
+            "editable": 1
+        },
+        {
+            "id": 6,
+            "remark": "",
+            "code": "hotel",
+            "codeText": "酒店",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 6,
+            "editable": 1
+        },
+        {
+            "id": 7,
+            "remark": "",
+            "code": "science_technology",
+            "codeText": "科技",
+            "type": "SUBSCRIBER_LINE",
+            "sortNo": 7,
+            "editable": 1
+        }
+    ]
+}

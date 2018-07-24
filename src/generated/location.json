@@ -1,0 +1,237 @@
+[
+    {
+        "districts": {
+            "id": 350200,
+            "parentId": 350000,
+            "name": "厦门市"
+        },
+        "countyList": [
+            {
+                "id": 350203,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "思明区"
+            },
+            {
+                "id": 350205,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "海沧区"
+            },
+            {
+                "id": 350206,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "湖里区"
+            },
+            {
+                "id": 350211,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "集美区"
+            },
+            {
+                "id": 350212,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "同安区"
+            },
+            {
+                "id": 350213,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350200,
+                "name": "翔安区"
+            }
+        ]
+    },
+    {
+        "districts": {
+            "id": 440300,
+            "parentId": 440000,
+            "name": "深圳市"
+        },
+        "countyList": [
+            {
+                "id": 440301,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "市辖区"
+            },
+            {
+                "id": 440303,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "罗湖区"
+            },
+            {
+                "id": 440304,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "福田区"
+            },
+            {
+                "id": 440305,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "南山区"
+            },
+            {
+                "id": 440306,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "宝安区"
+            },
+            {
+                "id": 440307,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "龙岗区"
+            },
+            {
+                "id": 440308,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 440300,
+                "name": "盐田区"
+            }
+        ]
+    },
+    {
+        "districts": {
+            "id": 350500,
+            "parentId": 350000,
+            "name": "泉州市"
+        },
+        "countyList": [
+            {
+                "id": 350501,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "市辖区"
+            },
+            {
+                "id": 350502,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "鲤城区"
+            },
+            {
+                "id": 350503,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "丰泽区"
+            },
+            {
+                "id": 350504,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "洛江区"
+            },
+            {
+                "id": 350505,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "泉港区"
+            },
+            {
+                "id": 350521,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "惠安县"
+            },
+            {
+                "id": 350524,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "安溪县"
+            },
+            {
+                "id": 350525,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "永春县"
+            },
+            {
+                "id": 350526,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "德化县"
+            },
+            {
+                "id": 350527,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "金门县"
+            },
+            {
+                "id": 350581,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "石狮市"
+            },
+            {
+                "id": 350582,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "晋江市"
+            },
+            {
+                "id": 350583,
+                "delFlg": 1,
+                "createBy": 0,
+                "updateBy": 0,
+                "parentId": 350500,
+                "name": "南安市"
+            }
+        ]
+    }
+]
