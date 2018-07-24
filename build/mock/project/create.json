@@ -1,0 +1,39 @@
+{
+    "method": "post",
+    "path": "/project",
+    "res": {
+        "requestId": "ebc00174-c23f-4da8-b903-b47c84f2c3d0",
+        "responseCode": "00",
+        "responseMessage": "处理成功",
+        "data": {
+            "id": 2,
+            "delFlg": 1,
+            "createBy": 1,
+            "createTime": "2017-07-20 15:18:11",
+            "updateBy": 1,
+            "updateTime": "2017-08-24 22:18:13",
+            "fields": [],
+            "name": "云玺万享荟",
+            "sealUrl": "[{\"url\":\"http://thenewwork.oss-cn-shanghai.aliyuncs.com/vankely_admin_web/7Nw73kJaPiCP/%E5%8E%A6%E9%97%A8%E5%B8%82%E4%B8%87%E7%A7%91%E5%95%86%E4%B8%9A%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8.png\"}]",
+            "sysAreaId": 2,
+            "sysDeptId": 21,
+            "province": "350000",
+            "cityOne": "350200",
+            "cityTwo": "350206",
+            "address": "厦门市湖里区高林中路535号云玺2#楼2层美食广场",
+            "openDate": "2017-02-06",
+            "asset": "light",
+            "assetOwner": "厦门市万科商业物业管理有限公司",
+            "projectManagedCompany": "厦门市万科商业物业管理有限公司",
+            "newOrOldProject": "new",
+            "structureArea": "1151.70",
+            "usableArea": "461.40",
+            "rentArea": "1151.70",
+            "propertyArea": "0.00",
+            "useRate": "40.06",
+            "sysAreaName": "南方区域",
+            "sysDeptName": "厦门公司"
+        },
+        "success": true
+    }
+}

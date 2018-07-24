@@ -1,0 +1,32 @@
+{
+  "method": "get",
+  "path": "/location/:id",
+  "res": {
+    "requestId": "de97505d-f2d7-49b5-b6b1-632ef160bc38",
+    "responseCode": "00",
+    "responseMessage": "处理成功",
+    "data": {
+        "id": 1,
+        "delFlg": 1,
+        "remark": "省市区编码待对接",
+        "createBy": 1,
+        "createTime": null,
+        "updateBy": 1,
+        "updateTime": null,
+        "keyword": null,
+        "fields": [],
+        "orderBy": null,
+        "asc": null,
+        "locationName": "厦大-轮渡",
+        "locationType": "trading_area",
+        "locationAddress": "厦门市思明区思明南路386号",
+        "lat": 24.448289,
+        "lng": 118.096647,
+        "geoHash": "ws7gp",
+        "province": "福建",
+        "city": "厦门",
+        "county": "思明区"
+    },
+    "success": true
+  }
+}
